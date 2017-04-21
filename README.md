@@ -2,7 +2,7 @@
 ![alt text][image1]
 
 ## Challenge 2
-For detailed information on submissions for Challenge 2, please check out [this medium post](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3).
+For detailed information for Challenge 2, please check out [this medium post](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3).
 
 
 ## Final Leaderboard
